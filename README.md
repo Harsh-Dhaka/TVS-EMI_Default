@@ -26,7 +26,7 @@ We considered Logistic Regression as our base model, but it doesn't shows any pe
 After which we used DecisionTree classifier for getting better performance,than we hypertuned DT Classifier and got a better result.Also checked the features importances of tuned decision tree.
 After using DT classifier we used feature selection techniques like SFS and then made up another model by considering the features got from DT feature importances and SFS.
 Also used some boosting techniques like XGBoost, then stacking classifier,KNN for getting a better result from previous ones.
-At the end we see the tuned decision tree shows best result.
+At the end we see the tuned decision tree shows best result
 
 
 
